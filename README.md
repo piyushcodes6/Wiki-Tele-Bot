@@ -1,0 +1,2 @@
+# Wiki-Tele-Bot
+ I build this NodeJs script that integrates with the telegram bot and capture the response from the telegram channel then I am pushing all articles that can be found for that particularly search keyword using wikipedia's open search end point api. I imported dependencies like "express" , "node-telegram-bot-api" for the connection establishment with tele bot,  "request" which is just simplifying our http request and at last "yargs" for the capturing the user input to search from command line.
